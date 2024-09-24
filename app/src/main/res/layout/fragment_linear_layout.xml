@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/default_padding"
+    android:gravity="center">
+
+    <!-- TextView for displaying static text -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_your_name"
+        android:textSize="@dimen/text_size_default"
+        android:textColor="@color/primary_text_color"
+        android:layout_marginBottom="8dp" />
+
+    <!-- EditText for user input -->
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_your_name"
+        android:layout_marginBottom="@dimen/large_margin" />
+
+    <!-- Button to show Toast -->
+    <Button
+        android:id="@+id/buttonShowToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_show_toast"
+        android:backgroundTint="@color/button_background_color"
+        android:layout_marginBottom="@dimen/large_margin" />
+
+    <!-- ImageView to display an image from the drawable folder -->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/hand_wave_image"
+        android:contentDescription="@null"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">UIShowcaseApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="button_show_toast">Show Toast</string>
+    <string name="hint_your_name">Your Name</string>
+
+    <string name="toggle_setting">Toggle Setting</string>
+    <string name="switch_on">On</string>
+    <string name="switch_off">Off</string>
+    <string name="show_snackbar">Show Snackbar</string>
+    <string name="snackbar_message">FAB clicked! Showing Snackbar.</string>
+
 </resources>

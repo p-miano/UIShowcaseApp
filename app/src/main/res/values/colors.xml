@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary_text_color">#000000</color> <!-- Black -->
+    <color name="button_background_color">#FF5722</color> <!-- Deep Orange -->
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="switch_thumb_color">#FF5722</color> <!-- Orange for the Switch thumb -->
+    <color name="switch_track_color">#BDBDBD</color> <!-- Light gray for the Switch track -->
 </resources>
