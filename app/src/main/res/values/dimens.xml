@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Padding and Margin Dimensions -->
     <dimen name="default_padding">16dp</dimen>
     <dimen name="default_margin">16dp</dimen>
     <dimen name="small_margin">8dp</dimen>
+    <dimen name="extra_small_margin">4dp</dimen>
     <dimen name="large_margin">24dp</dimen>
 
-    <!-- Size Dimensions -->
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="text_size_default">18sp</dimen>
+
+    <dimen name="grid_item_image_size">80dp</dimen>
+    <dimen name="grid_item_text_margin_top">8dp</dimen>
+    <dimen name="grid_horizontal_spacing">16dp</dimen>
+    <dimen name="grid_vertical_spacing">16dp</dimen>
+    <dimen name="grid_item_column_width">120dp</dimen>
 </resources>

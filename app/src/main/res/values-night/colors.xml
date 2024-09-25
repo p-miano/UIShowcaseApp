@@ -1,0 +1,17 @@
+<resources>
+    <!-- Override primary, variant, and accent colors for night mode -->
+    <color name="colorPrimary">#BB86FC</color> <!-- Night mode primary -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Night mode variant -->
+    <color name="colorAccent">#03DAC5</color> <!-- Night mode accent -->
+
+    <!-- Text color for night mode -->
+    <color name="primary_text_color">#FFFFFF</color> <!-- White for night -->
+
+    <!-- Override grid item text color for night mode -->
+    <color name="grid_item_text_color">#FFFFFF</color> <!-- White text for night -->
+    <color name="grid_icon_color">#FFFFFF</color> <!-- White icons for night -->
+
+    <!-- Switch thumb and track for night mode -->
+    <color name="switch_thumb_color">#BB86FC</color> <!-- Purple thumb for night -->
+    <color name="switch_track_color">#757575</color> <!-- Darker gray for night -->
+</resources>

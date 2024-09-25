@@ -1,15 +1,38 @@
 <resources>
     <string name="app_name">UIShowcaseApp</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
+    <!-- Page 1 -->
     <string name="enter_your_name">Enter your name:</string>
     <string name="button_show_toast">Show Toast</string>
     <string name="hint_your_name">Your Name</string>
-
+    <!-- Page 2 -->
     <string name="toggle_setting">Toggle Setting</string>
     <string name="switch_on">On</string>
     <string name="switch_off">Off</string>
     <string name="show_snackbar">Show Snackbar</string>
     <string name="snackbar_message">FAB clicked! Showing Snackbar.</string>
-
+    <!-- Page 3 -->
+    <string name="item_1_house">House</string>
+    <string name="item_2_chalet">Chalet</string>
+    <string name="item_3_cottage">Cottage</string>
+    <string name="item_4_houseboat">Houseboat</string>
+    <string name="item_5_hotel">Hotel</string>
+    <string name="item_6_airbnb">AirBnB</string>
+    <string name="grid_toast_message">Clicked: %1$s</string>
+    <!-- Page 4 -->
+    <string-array name="city_names">
+        <item>New York</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Tokyo</item>
+        <item>Berlin</item>
+        <item>Sydney</item>
+        <item>Moscow</item>
+        <item>Rio de Janeiro</item>
+        <item>Toronto</item>
+        <item>Dubai</item>
+    </string-array>
+    <!-- Toast message -->
+    <string name="status_message">The status of %1$s is: %2$s</string>
+    <string name="item_label">Item Label</string>
+    <string name="city_name">City Name</string>
 </resources>

@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
-
+import com.example.uishowcaseapp.GridLayoutFragment;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {

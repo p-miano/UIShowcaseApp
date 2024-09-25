@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Application de Démonstration</string>
+    <!-- Page 1 -->
+    <string name="enter_your_name">Entrez votre nom:</string>
+    <string name="button_show_toast">Afficher Toast</string>
+    <string name="hint_your_name">Votre nom</string>
+    <!-- Page 2 -->
+    <string name="toggle_setting">Paramètre bascule</string>
+    <string name="switch_on">Activé</string>
+    <string name="switch_off">Désactivé</string>
+    <string name="show_snackbar">Afficher Snackbar</string>
+    <string name="snackbar_message">FAB cliqué! Affichage du Snackbar.</string>
+    <!-- Page 3 -->
+    <string name="item_1_house">Maison</string>
+    <string name="item_2_chalet">Chalet</string>
+    <string name="item_3_cottage">Cottage</string>
+    <string name="item_4_houseboat">Maison flottante</string>
+    <string name="item_5_hotel">Hôtel</string>
+    <string name="item_6_airbnb">AirBnB</string>
+    <string name="grid_toast_message">Cliqué: %1$s</string>
+    <!-- Page 4 -->
+    <string-array name="city_names">
+        <item>New York</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Tokyo</item>
+        <item>Berlin</item>
+        <item>Sydney</item>
+        <item>Moscou</item>
+        <item>Rio de Janeiro</item>
+        <item>Toronto</item>
+        <item>Dubai</item>
+    </string-array>
+    <!-- Toast message -->
+    <string name="status_message">Le statut de %1$s est: %2$s</string>
+    <string name="item_label">Étiquette de l\'article</string>
+    <string name="city_name">Nom de la ville</string>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Aplicativo de Demonstração</string>
+    <!-- Page 1 -->
+    <string name="enter_your_name">Digite seu nome:</string>
+    <string name="button_show_toast">Exibir Toast</string>
+    <string name="hint_your_name">Seu Nome</string>
+    <!-- Page 2 -->
+    <string name="toggle_setting">Configuração de Alternância</string>
+    <string name="switch_on">Ligado</string>
+    <string name="switch_off">Desligado</string>
+    <string name="show_snackbar">Exibir Snackbar</string>
+    <string name="snackbar_message">FAB clicado! Exibindo Snackbar.</string>
+    <!-- Page 3 -->
+    <string name="item_1_house">Casa</string>
+    <string name="item_2_chalet">Chalé</string>
+    <string name="item_3_cottage">Casa de campo</string>
+    <string name="item_4_houseboat">Casa flutuante</string>
+    <string name="item_5_hotel">Hotel</string>
+    <string name="item_6_airbnb">AirBnB</string>
+    <string name="grid_toast_message">Clicado: %1$s</string>
+    <!-- Page 4 -->
+    <string-array name="city_names">
+        <item>Nova York</item>
+        <item>Londres</item>
+        <item>Paris</item>
+        <item>Tóquio</item>
+        <item>Berlim</item>
+        <item>Sydney</item>
+        <item>Moscou</item>
+        <item>Rio de Janeiro</item>
+        <item>Toronto</item>
+        <item>Dubai</item>
+    </string-array>
+    <!-- Toast message -->
+    <string name="status_message">O status de %1$s é: %2$s</string>
+    <string name="item_label">Rótulo do Item</string>
+    <string name="city_name">Nome da cidade</string>
+</resources>

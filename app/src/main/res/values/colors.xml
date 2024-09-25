@@ -1,13 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- General colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="primary_text_color">#000000</color> <!-- Black -->
+
+    <!-- Text and button colors -->
+    <color name="primary_text_color">#000000</color> <!-- Black for day mode -->
     <color name="button_background_color">#FF5722</color> <!-- Deep Orange -->
 
+    <!-- Grid item color -->
+    <color name="grid_item_text_color">#000000</color> <!-- Black text for day -->
+    <color name="grid_icon_color">#FF000000</color> <!-- Black icons for day -->
+
+    <!-- Light and night colors for primary, variants, and accent -->
     <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="switch_thumb_color">#FF5722</color> <!-- Orange for the Switch thumb -->
-    <color name="switch_track_color">#BDBDBD</color> <!-- Light gray for the Switch track -->
+
+    <!-- Define colors needed in night mode -->
+    <color name="colorPrimaryNight">#BB86FC</color>
+    <color name="colorPrimaryVariantNight">#3700B3</color>
+    <color name="colorAccentNight">#03DAC5</color>
+
+    <!-- Switch thumb and track -->
+    <color name="switch_thumb_color">#FF5722</color> <!-- Orange thumb for day -->
+    <color name="switch_track_color">#BDBDBD</color> <!-- Light gray for day -->
 </resources>
